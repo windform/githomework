@@ -1,2 +1,1 @@
-# githomework
-javascript深度编程
+## task 002 DOM
